@@ -1,0 +1,11 @@
+string='where is the k2'
+string='there is k2 there'
+string='there is gonna be bluetooth'
+string='optimize something for layer'
+string='on mean the bluetooth red'
+string='forget the quality of term'
+string='there surenesss inside the quality of the chat'
+string='there is no god'
+string='is there somebody named quality'
+string='assume assume assume'
+
