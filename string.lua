@@ -1,5 +1,0 @@
-string='there is communication done for it'
-string='the whole country is gonna see'
-string='proxy'
-string='ssl initiation done'
-string='there is also an agreement'
